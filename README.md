@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://res.cloudinary.com/dpwykqiea/image/upload/v1783811097/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866_ub1sn2.gif" width="100%" alt="Banner GIF">
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=38&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=بِسْمِ+ٱللَّٰهِ+ٱلرَّحْمَٰنِ+ٱلرَّحِيمِ" />
 </p>
 
@@ -13,7 +19,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=muhmmmadirtizakhan&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Profile Views"/>
 <img align="right" src="https://img.shields.io/github/followers/muhmmmadirtizakhan?label=Followers&style=flat-square&color=a855f7" alt="Followers"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06B6D4&center=false&vCenter=true&width=440&lines=Building+VerifyLine;Building+MedixWeb;Building+Pawsitive+Clinic;Co-founding+Nexora+Technologies;Building+AETHERIC)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06B6D4&center=false&vCenter=true&width=650&lines=🚀+Building+AETHERIC+Hotel+Management;🏨+Developing+QuickStay;💊+Creating+MedixWeb;🤖+Building+Rehnuma+AI+Assistant)
 
 ----
 <div align="center">
@@ -99,7 +105,8 @@
 </div>
 
 ----
-
+<div align="center">
+  
 ### 🐍 GitHub Activity
 
 -----
@@ -108,6 +115,7 @@
   <img src="https://raw.githubusercontent.com/muhmmmadirtizakhan/muhmmmadirtizakhan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </div>
 
+</div>
 ---
 
 <div align="center">
@@ -125,8 +133,36 @@
 
 ----
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhmmmadirtizakhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
+ ----                                     
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=muhmmmadirtizakhan&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+
+<div align="center">
+
+---
+
+### 🌐 Connect With Me
+
+---
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhmmmadirtizakhan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923213369154)
+[![Nexora Technologies](https://img.shields.io/badge/Nexora_Technologies-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://YOUR_NEXORA_WEBSITE)
+
+</div>
+
+---
+
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:a855f7&height=120&section=footer&text=%22Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.%22&fontSize=16&fontColor=ffffff&fontAlignY=50&fontAlign=50)
+
+</div>
