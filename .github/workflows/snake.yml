@@ -20,6 +20,9 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%2321262d,%2300b4d8,%23a855f7,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%2321262d,%2300b4d8,%23a855f7,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
 
+      - name: Fix permissions
+        run: sudo chown -R $(whoami):$(whoami) dist
+
       - name: Inject solid black background into SVGs
         run: |
           for f in dist/*.svg; do
