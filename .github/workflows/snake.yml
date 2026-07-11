@@ -20,13 +20,13 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%23161b22,%23145a32,%23006d32,%2326a641,%2339d353&color_dot_border=%2300ff41&dot_size=13
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%23000000,%23145a32,%23006d32,%2326a641,%2339ff14&color_dot_border=%2300ff41&dot_size=13
 
-- name: Inject solid black background into SVGs
+      - name: Inject solid black background into SVGs
         run: |
           for f in dist/*.svg; do
             sed -i 's|<svg |<svg style="background:#000000;border-radius:8px;" |' "$f"
             sed -i '0,/<svg[^>]*>/s|<svg[^>]*>|&<rect width="100%" height="100%" fill="#000000"/>|' "$f"
           done
-          
+
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
