@@ -11,16 +11,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: muhmmmadirtizakhan
-
-outputs: |
-  dist/github-contribution-grid-snake.svg?palette=github-light
-  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2300ff41&color_dots=%230d1117,%230e4429,%23006d32,%2326a641,%2339d353&color_dot_border=%2300ff41&dot_size=13
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300ff41&color_dots=%23000000,%230d1117,%23145a32,%2300ff41,%2339ff14&color_dot_border=%2300ff41&dot_size=13
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
