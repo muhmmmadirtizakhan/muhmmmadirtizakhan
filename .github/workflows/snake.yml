@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: muhmmmadirtizakhan
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%2321262d,%2300b4d8,%23a855f7,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7,%23a855f7,%2300ff41,%2300ff41&color_dots=%2321262d,%2300b4d8,%23a855f7,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
+            dist/github-contribution-grid-snake.svg?color_snake=%23a855f7&color_dots=%2321262d,%2300b4d8,%23f97316,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7&color_dots=%2321262d,%2300b4d8,%23f97316,%23ec4899,%2339ff14&color_dot_border=%23444c56&dot_size=13
 
       - name: Fix permissions
         run: sudo chown -R $(whoami):$(whoami) dist
