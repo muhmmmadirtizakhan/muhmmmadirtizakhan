@@ -151,10 +151,10 @@
 ### 🌐 Connect With Me
 
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/irtiza8259)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhmmmadirtizakhan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923213369154)
-[![Nexora Technologies](https://img.shields.io/badge/Nexora_Technologies-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://YOUR_NEXORA_WEBSITE)
+[![Nexora Technologies](https://img.shields.io/badge/Nexora_Technologies-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://nexora-five-topaz.vercel.app/)
 
 </div>
 
